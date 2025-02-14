@@ -1,4 +1,4 @@
-# Assignment 1 - Smaet Financial Management system
+# Assignment 1 - Smart Financial Management system
 
 ## Overview
 This repository contains Python scripts utilizing **ipywidgets** to create interactive widgets for various financial and economic computations. Each script provides a different financial functionality using **Jupyter Notebook** and **IPython display widgets**.
