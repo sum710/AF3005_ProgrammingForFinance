@@ -52,8 +52,6 @@ These interactive widgets help in:
 Feel free to modify the scripts to explore different scenarios!
 
 ## Author
-[Your Name]
+Sumbal Murtaza
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
